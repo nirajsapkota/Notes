@@ -2,7 +2,7 @@
 title: Niraj Sapkota
 url: https://notes.nirajsapkota.com
 paginate: 1
-baseurl: ""
+baseurl: "/Notes"
 permalink: pretty
 
 # Gems
