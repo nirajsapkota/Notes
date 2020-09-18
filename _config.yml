@@ -33,7 +33,6 @@ sass:
 # Specify the author for blog posts
 author:
   name: Niraj Sapkota
-  url: https://twitter.com/mdo
   email: n.sapkota@outlook.com.au
 
 # Custom vars
